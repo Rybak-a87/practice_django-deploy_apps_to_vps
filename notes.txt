@@ -1,0 +1,5 @@
+Собрать образ
+$ docker-compose build
+
+Запуск образа
+$ docker-compose up -d web
